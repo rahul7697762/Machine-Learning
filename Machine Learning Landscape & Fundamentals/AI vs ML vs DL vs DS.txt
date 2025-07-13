@@ -1,0 +1,58 @@
+🔍 1. Artificial Intelligence (AI)
+Definition: AI is the broadest concept. It's the science of creating systems or machines that can mimic human intelligence.
+Goal: Make machines “smart” — able to think, reason, learn, and act.
+
+🧠 Examples:
+
+Chatbots (e.g., Siri, Alexa)
+
+Game AI (e.g., chess engines)
+
+Self-driving cars
+
+📈 2. Machine Learning (ML)
+Definition: A subset of AI that focuses on enabling machines to learn from data without being explicitly programmed.
+Goal: Improve system performance using experience (data).
+
+📊 Techniques:
+
+Supervised Learning (e.g., linear regression, SVM)
+
+Unsupervised Learning (e.g., k-means, PCA)
+
+Reinforcement Learning (e.g., Q-learning)
+
+📚 Example: Email spam filtering, recommendation systems (Netflix)
+
+🧠 3. Deep Learning (DL)
+Definition: A subset of ML, inspired by the structure of the human brain (neural networks). It uses multiple layers to automatically extract features.
+Goal: Learn complex patterns from large volumes of data using neural networks.
+
+🕸 Examples:
+
+Image recognition (CNNs)
+
+Speech-to-text
+
+GPT (LLMs)
+
+📊 4. Data Science (DS)
+Definition: A broader field that combines statistics, ML, data analysis, and domain expertise to extract knowledge from data.
+Goal: Use data to generate actionable insights.
+
+🛠 Tools/Skills:
+
+Python, SQL, R, Excel
+
+Visualization (Matplotlib, Power BI)
+
+Communication (dashboards, reports)
+
+🔍 Example: Analyzing sales trends, customer segmentation
+
+📌 Summary Table
+Term	Type	         Main Focus	                        Tools/Concepts
+AI	Broad umbrella	Mimicking human intelligence	Logic, Planning, Learning
+ML	Subset of AI	Learning from data	Regression, SVM, Clustering
+DL	Subset of ML	Neural network-based learning	CNN, RNN, Transformers
+DS	Cross-disciplinary field	Analyzing and interpreting data	Pandas, SQL, Visualization
